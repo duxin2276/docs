@@ -79,6 +79,7 @@ function edit() {
             console.log(res);
             lookCar()
         })
+        console.log(data);
     });
 
 }
